@@ -4,7 +4,9 @@ body {
   padding: 0;
 }
 
-
+.logo:hover{
+  cursor: pointer;
+}
 .container-header {
   display: flex;
   justify-content: space-between;
@@ -108,10 +110,13 @@ body {
   align-items: center;
   margin-left: 132px;
   gap: 26px;
+  
 
 
 }
-
+.user-icon:hover{
+  cursor: pointer;
+}
 .user-icons .user-icon {
   width: 18px;
   height: 18px;
