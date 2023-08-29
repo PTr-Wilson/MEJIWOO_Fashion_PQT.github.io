@@ -46,7 +46,9 @@
     border-radius: 10px 10px 0px 0px;
     background: var(--primary, #FFF);
 }
-
+.section-product ul li p{
+    border-bottom: 2px solid;
+  }
 .section-product ul li.active {
     width: 145px;
     height: 79px;
